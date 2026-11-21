@@ -1,0 +1,11 @@
+# Local database configuration (do not upload credentials)
+config.php
+
+# macOS / editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
